@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0;}
+.app{
+    width: "100%";
+    min-height: 100vh;
+    background: lightblue;
+    text-align: center;
+
+}
+.app h1{
+    padding: 20px 0;
+}
